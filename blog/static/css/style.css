@@ -1,0 +1,60 @@
+
+.title {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 42px;
+    font-weight: 700;
+    letter-spacing: -0.011em;
+    color: #242424;
+}
+
+.w700 {
+    font-weight: 700;
+}
+
+.w400 {
+    font-weight: 400;
+}
+
+.fsNormal{
+    font-size: 16px;
+}
+
+.dropdown-menu-right {
+    right: 0 !important;
+    left: auto !important;
+ }
+
+.usericon{
+    width: 50%;
+    height: 50%;
+    position: inherit;
+    left: 50%;
+    top: 50%;
+    display: block;
+    margin: auto;
+    flex-flow: flex-end;
+    text-anchor: middle;
+    font-weight: 700;
+    font-size: 20px;
+    dominant-baseline: middle;
+  }
+
+.lighttext {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #6B6B6B;
+}
+
+.navcustom{
+    height: 57px;
+    width: 100%;
+    border-bottom: 1px solid #E0E0E0;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.text {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
